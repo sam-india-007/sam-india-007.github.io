@@ -18,7 +18,7 @@ I am a part of Nirmaan's PRD, where I help maintain the site.
 
 ### Hobbies
 
-I reading reading mystery novels. I am also a huge F1 and Ferrari fan. Do drop by if you want to discuss F1's new regs or Ferrari's future chances :)
+I enjoy reading mystery novels. I am also a huge F1 and Ferrari fan. Do drop by if you want to discuss F1's new regs or Ferrari's future chances :)
 
 ### Contact me
 
