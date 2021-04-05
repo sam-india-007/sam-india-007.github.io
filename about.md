@@ -8,7 +8,8 @@ Hey there, I'm Samriddha! I am an active Web Developer.
 
 ### Education
 
-I am studying Computer Science at Birla Institute of Technology and Science, Pilani (graduating in 2024). 
+I am studying Computer Science at Birla Institute of Technology and Science, Pilani (graduating in 2024).  
+  
 I have been to City International School, Wanowrie, Pune (2020) and The Bishop's Co-Ed School, Undri, Pune (2018).
 
 ### Co-Curriculars
