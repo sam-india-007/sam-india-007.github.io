@@ -22,4 +22,4 @@ I enjoy reading mystery novels. I am also a huge F1 and Ferrari fan. Do drop by 
 
 ### Contact me
 
-[samriddha@gmail.com](mailto:samriddha@gmail.com)
+You can contact me via [email](mailto:samriddha@gmail.com)
