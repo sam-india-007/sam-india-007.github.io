@@ -14,7 +14,7 @@ I have been to City International School, Wanowrie, Pune (2020) and The Bishop's
 
 ### Co-Curriculars
 
-I am a part of Nirmaan's PRD, where I help maintain the site.
+I am a part of Nirmaan's PRD, where I help maintain the site. Alongside that I am a member of the dev team at DSC, BITS Pilani.
 
 ### Hobbies
 
