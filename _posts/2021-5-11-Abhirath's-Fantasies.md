@@ -18,3 +18,7 @@ This is a dumpster of all of Abhirath's fantasies
 [Statistics for Applications - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
   
 [Circuits and Electronics - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/)
+  
+  
+  
+PS: He has a super cool blog of his own too. Check it out [here](theabhirath.github.io)
