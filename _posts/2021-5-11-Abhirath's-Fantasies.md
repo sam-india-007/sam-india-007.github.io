@@ -21,4 +21,4 @@ This is a dumpster of all of Abhirath's fantasies
   
   
   
-PS: He has a super cool blog of his own too. Check it out [here](theabhirath.github.io)
+PS: He has a super cool blog of his own too. Check it out [here](https://theabhirath.github.io)
