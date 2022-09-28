@@ -1,6 +1,0 @@
----
-layout: post
-title: Hello to first blog post
----
-
-Let's try this, hoping it works
