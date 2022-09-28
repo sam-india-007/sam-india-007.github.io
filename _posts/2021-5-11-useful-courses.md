@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Abhirath's Fantasies
+title: Math Courses Useful to CS students
 ---
 
-This is a dumpster of all of Abhirath's fantasies
+These courses were useful to understand M2 (Linear Algebra and Complex Integration) and ProbStat, courses provided by BITS Pilani and nearly every other engineering program.
 
 [Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
   
@@ -18,7 +18,3 @@ This is a dumpster of all of Abhirath's fantasies
 [Statistics for Applications - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/)
   
 [Circuits and Electronics - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/)
-  
-  
-  
-PS: He has a super cool blog of his own too. Check it out [here](https://theabhirath.github.io)
