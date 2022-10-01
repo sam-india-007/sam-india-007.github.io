@@ -30,13 +30,13 @@ At the infrastructure layer, the physical switches and the associated OpenFlow n
 
 ## What are current techniques in use in SDN Forensics?
 
-Packet Traceback: Packet Traceback means determining how a packet could have arrived at a point of observation. The SDN’s packet processing behavior can be converted to a network policy. Using the policy, the back-policy can be determined using the mathematics of inverting a function. This helps us determine where a packet might have come from, given its current state and location.
+**Packet Traceback**: Packet Traceback means determining how a packet could have arrived at a point of observation. The SDN’s packet processing behavior can be converted to a network policy. Using the policy, the back-policy can be determined using the mathematics of inverting a function. This helps us determine where a packet might have come from, given its current state and location.
 
-Packet Probing: Specialized packets are used to probe the various ports and devices in the network. Using the results the entire network can be mapped.  First it is checked if the host is reachable. Then the IP and MAC addresses of the network are mapped. Once this is done, it sends probing packets of the type ARP, ICMP, TCP and UDP to the destination host and analyzes the received responses.
+**Packet Probing**: Specialized packets are used to probe the various ports and devices in the network. Using the results the entire network can be mapped.  First it is checked if the host is reachable. Then the IP and MAC addresses of the network are mapped. Once this is done, it sends probing packets of the type ARP, ICMP, TCP and UDP to the destination host and analyzes the received responses.
 
-SDN monitoring using PVPs: Provenance Verification Points (PVPs) make use of the perspective that the network itself can be used as an observation point for a forensic system. These are middleboxes that collect forensic information, while allowing the network to operate normally without an excessive drop in performance.
+**SDN monitoring using PVPs**: Provenance Verification Points (PVPs) make use of the perspective that the network itself can be used as an observation point for a forensic system. These are middleboxes that collect forensic information, while allowing the network to operate normally without an excessive drop in performance.
 
-Forensic Management Layer: A Forensic Management Layer (FML) is a monitoring framework designed to detect network anomalies. It is of two types - C-FML and D-FML, where ’C’ and ’D’ refer to Centralized or Distributed. C-FML monitors the traffic passing through the southbound interface. It records the requests made and responses received by the controller and the southbound interface. It is typically used when there is only one controller. D-FML monitors the east and west-bound traffic. The east and west interfaces send updates to each other thorugh the D-FML. D-FML helps guard against attacks by maintaining integrity of the network through cross-referencing the east and west interfaces.
+**Forensic Management Layer**: A Forensic Management Layer (FML) is a monitoring framework designed to detect network anomalies. It is of two types - C-FML and D-FML, where ’C’ and ’D’ refer to Centralized or Distributed. C-FML monitors the traffic passing through the southbound interface. It records the requests made and responses received by the controller and the southbound interface. It is typically used when there is only one controller. D-FML monitors the east and west-bound traffic. The east and west interfaces send updates to each other thorugh the D-FML. D-FML helps guard against attacks by maintaining integrity of the network through cross-referencing the east and west interfaces.
 
 ## So let's talk about Attack Graphs
 
@@ -59,3 +59,19 @@ This algorithm generates the longest sequence of events where one event leads to
 ## Where next?
 
 As SDNs and allied technologies gain prominence, more and more novel attacks will be discovered. Research into SDN Forensics is greatly needed to secure our next generation of networks, specially wide area networks of essential services, given the recent rise of state-sponsored cyberattacks and increasing dependence on these networks.
+
+## References
+
+[1] S. Khan, A. Gani, A. W. A. Wahab, A. Abdelaziz, K. Ko, M. K. Khan, and M. Guizani, ”Software-Defined Network Forensics: Motivation, Potential Locations, Requirements, and Challenges”
+
+[2] H. Zhang, J. Reich, and J. Rexford, ”Packet Traceback for Software-Defined Networks”
+
+[3] S. Achleitner, T. La Porta, T. Jaeger, and P. McDaniel, ”Adversarial Network Forensics in Software Defined Networking”
+
+[4] A. Bates et al, ”Let SDN Be Your Eyes: Secure Forensics in Data Center Networks”
+
+[5] S. Khan et al, ”FML: A novel Forensics Management Layer for Software Defined Networks”
+
+[6] F. Capobianco et al, ”Employing Attack Graphs for Intrusion Detection”
+
+[7] Z. Li, J. Lei, L. Wang, and D. Li, ”A Data Mining Approach to Generating Network Attack Graph for Intrusion Prediction”
