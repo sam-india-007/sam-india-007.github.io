@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SDN Forensics: Why, How, and Where from here
+title: "SDN Forensics: Why, How, and Where from here"
 excerpt_separator: <!--more-->
 ---
 
